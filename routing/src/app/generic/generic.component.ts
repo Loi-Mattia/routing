@@ -1,6 +1,6 @@
 import { Component, OnInit } from '@angular/core';
 import { ActivatedRoute, ParamMap } from '@angular/router';
-import { ANIMALS, Emoji, FRUITS } from '..emoji.models';
+import { ANIMALS, Emoji, FRUITS } from '../models/emoji.models';
 
 @Component({
   selector: 'app-generic',
